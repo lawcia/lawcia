@@ -1,6 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Foogle, this was the final project at futureproof. I am refactoring the project to include Redux and updating the design.
-- 🌱 I’m currently learning C# and AWS. 
-- 📫 How to reach me: ...
-- ⚡ Fun fact: 
+- 🔭 I’m currently working on [Foogle](https://github.com/lawcia/Foogle), this was the final project at futureproof. I am refactoring the project to include Redux for state management and updating the design.
+- 🌱 I’m currently learning C# and how to develop cloud based applications on AWS. 
