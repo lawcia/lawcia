@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am full stack developer from London, who enjoys building user-friendly applications that help solve interesting problems.
+I am a full stack developer from London, who enjoys building user-friendly applications that help solve interesting problems.
 
 I code in many different languages (JavaScript, Python, Java, C# and PHP).
 
