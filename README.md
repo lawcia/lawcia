@@ -2,6 +2,8 @@
 
 I am a full stack developer from London, who enjoys building user-friendly applications that help solve interesting problems.
 
+<hr />
+
 #### Languages and Tools
 
 <span>
@@ -18,4 +20,6 @@ I am a full stack developer from London, who enjoys building user-friendly appli
 <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git" height="40px" />
 </span>
 
+<hr />
 
+<img align="left" alt="lawcia github stats" src="https://github-readme-stats.vercel.app/api?username=lawcia&show_icons=true&hide_border=true" />
